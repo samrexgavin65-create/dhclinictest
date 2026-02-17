@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Static map placeholder for Davenport House Clinic</title>
+  <desc id="desc">Placeholder map image marking 28 Cheetham Hill Road, Stalybridge SK15 1TU.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3faf9"/>
+      <stop offset="1" stop-color="#dbecea"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="650" fill="url(#bg)"/>
+  <g stroke="#b8d2ce" stroke-width="14" fill="none" opacity="0.8">
+    <path d="M90 140 L1110 140"/>
+    <path d="M90 280 L1110 280"/>
+    <path d="M90 430 L1110 430"/>
+    <path d="M200 70 L200 590"/>
+    <path d="M430 70 L430 590"/>
+    <path d="M660 70 L660 590"/>
+    <path d="M920 70 L920 590"/>
+  </g>
+  <g stroke="#86b8af" stroke-width="6" fill="none" opacity="0.9">
+    <path d="M50 525 C300 450, 550 510, 780 430 C920 380, 1040 330, 1150 300"/>
+    <path d="M60 210 C260 180, 430 230, 650 210 C860 190, 990 145, 1140 110"/>
+  </g>
+  <g transform="translate(670 312)">
+    <path d="M0 -68 C-37 -68 -67 -38 -67 -1 C-67 45 -28 81 0 121 C28 81 67 45 67 -1 C67 -38 37 -68 0 -68 Z" fill="#0f766e"/>
+    <circle cx="0" cy="-5" r="24" fill="#dff7f4"/>
+  </g>
+  <rect x="88" y="487" width="1024" height="118" rx="16" fill="#ffffff" stroke="#b7ceca"/>
+  <text x="112" y="535" font-size="30" font-family="Montserrat, Helvetica Neue, Arial, sans-serif" fill="#0e3a46" font-weight="700">[IMAGE-Static map showing Davenport House Clinic location]</text>
+  <text x="112" y="573" font-size="24" font-family="Montserrat, Helvetica Neue, Arial, sans-serif" fill="#345e58">28 Cheetham Hill Road, Stalybridge, SK15 1TU</text>
+</svg>
